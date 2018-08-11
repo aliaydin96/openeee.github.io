@@ -38,6 +38,7 @@ Some online education sites
 * [MITx Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 * [Introduction to Computing in Python](https://www.edx.org/xseries/gtx-introduction-to-computing-in-python#courses)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+
 #### C++
 * [C++ for programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 
